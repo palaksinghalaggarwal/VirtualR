@@ -14,23 +14,23 @@ VirtualR is a developer-focused platform that provides powerful tools and resour
 
 ### HeroSection
 
-![HeroSection](src\screenshots\hero_section.png)
+![HeroSection](./src/screenshots/hero_section.png)
 
 ### Features
 
-![Features](src\screenshots\features.png)
+![Features](./src/screenshots/features.png)
 
 ### Pricing
 
-![Pricing](src\screenshots\pricing.png)
+![Pricing](./src/screenshots/pricing.png)
 
 ### Testimonials
 
-![Testimonials](src\screenshots\testimonials.png)
+![Testimonials](./src/screenshots/testimonials.png)
 
 ### Footer
 
-![Footer](src\screenshots\footer.png)
+![Footer](./src/screenshots/footer.png)
 
 ## Installation
 
